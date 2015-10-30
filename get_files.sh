@@ -15,6 +15,7 @@ sources_dir=sources
 doc_dir=doc
 old_wd=$(pwd)
 
+mkdir -p $archiso_dir/$doc_dir
 cd $archiso_dir/$doc_dir
 
 $wget $lfs_url/$lfs_html
