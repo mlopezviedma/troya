@@ -1,0 +1,8 @@
+[Unit]
+Description=Startup script
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/startup.sh
+After=network-online.target
+Wants=network-online.target

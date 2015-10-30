@@ -1,0 +1,3 @@
+Description="Wired connection"
+Connection=ethernet
+IP=dhcp

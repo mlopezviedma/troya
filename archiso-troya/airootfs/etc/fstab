@@ -1,0 +1,2 @@
+/var/run/archiso/bootmnt/sources /sources none bind 0 2
+/var/run/archiso/bootmnt/doc /doc none bind 0 2

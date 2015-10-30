@@ -1,0 +1,7 @@
+[37;01mWelcome to troya, an ideal environment to create a brand new LFS.[0m
+[36;01mGNU/Linux 3.19.3-3-ARCH[0m
+To view the LFS 7.7 documentation locally, run
+"links /doc/LFS-BOOK-7.7-systemd-NOCHUNKS.html".
+Also, check out the available links bookmarks for additional documentation.
+[31;01mRemember! [0mCopy the sources on a physical filesystem different from /,
+and [1malways [0mbuild packages there too.
