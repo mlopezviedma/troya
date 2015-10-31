@@ -1,6 +1,6 @@
 # Troya - sistema host para la instalación de un sistema LFS/UPM
 
-El objetivo de este proyecto es lograr un sistema booteable Archlinux 
+El objetivo de este proyecto es proveer un sistema booteable Archlinux 
 con las siguientes funcionalidades:
 
 - Cuentas de usuario <tt>root</tt> y <tt>lfs</tt> listas para comenzar a
@@ -18,6 +18,5 @@ nombre de host <tt>troya</tt>.
 EL directorio <tt>archiso-troya</tt> es un proyecto de <tt>archiso</tt>.
 Si ejecutamos el script <tt>build.sh</tt> ubicado en dicho directorio, se 
 generará el archivo <tt>.iso</tt> booteable con estas características.
-
 Para esto es necesario tener instalado el paquete <tt>archiso</tt>, 
 disponible en el repositorio <tt>extra</tt> de Archlinux.
