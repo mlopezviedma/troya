@@ -1,0 +1,8 @@
+# xemacs temporary files
+*.flc
+
+# Vim temporary files
+.*.swp
+
+# generated ISOs
+*.iso
